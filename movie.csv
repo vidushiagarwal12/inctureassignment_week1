@@ -1,0 +1,31 @@
+Movie,Genre,Rating,Year,Language,Duration_Minutes,Director
+Inception,Sci-Fi,8.8,2010,English,148,Christopher Nolan
+Interstellar,Sci-Fi,8.6,2014,English,169,Christopher Nolan
+The Dark Knight,Action,9.0,2008,English,152,Christopher Nolan
+Avengers Endgame,Action,8.4,2019,English,181,Anthony Russo
+Titanic,Romance,7.9,1997,English,195,James Cameron
+Joker,Drama,8.5,2019,English,122,Todd Phillips
+Frozen,Animation,7.4,2013,English,102,Chris Buck
+3 Idiots,Comedy,8.4,2009,Hindi,170,Rajkumar Hirani
+Bahubali The Beginning,Action,8.0,2015,Telugu,159,S. S. Rajamouli
+Dangal,Sports,8.3,2016,Hindi,161,Nitesh Tiwari
+PK,Comedy,8.1,2014,Hindi,153,Rajkumar Hirani
+Zindagi Na Milegi Dobara,Drama,8.2,2011,Hindi,155,Zoya Akhtar
+Shershaah,War,8.4,2021,Hindi,135,Vishnuvardhan
+Toy Story,Animation,8.3,1995,English,81,John Lasseter
+The Conjuring,Horror,7.5,2013,English,112,James Wan
+Doctor Strange,Fantasy,7.5,2016,English,115,Scott Derrickson
+Harry Potter and the Sorcerers Stone,Fantasy,7.6,2001,English,152,Chris Columbus
+Krrish,Sci-Fi,6.4,2006,Hindi,175,Rakesh Roshan
+Chhichhore,Comedy,8.3,2019,Hindi,143,Nitesh Tiwari
+RRR,Action,7.9,2022,Telugu,182,S. S. Rajamouli
+The Shawshank Redemption,Drama,9.3,1994,English,142,Frank Darabont
+Forrest Gump,Drama,8.8,1994,English,142,Robert Zemeckis
+Gladiator,Action,8.5,2000,English,155,Ridley Scott
+Coco,Animation,8.4,2017,English,105,Lee Unkrich
+Your Name,Animation,8.4,2016,Japanese,106,Makoto Shinkai
+Parasite,Thriller,8.5,2019,Korean,132,Bong Joon-ho
+Drishyam,Thriller,8.2,2015,Hindi,163,Nishikant Kamat
+Mad Max Fury Road,Action,8.1,2015,English,120,George Miller
+The Notebook,Romance,7.8,2004,English,123,Nick Cassavetes
+A Quiet Place,Horror,7.5,2018,English,90,John Krasinski
